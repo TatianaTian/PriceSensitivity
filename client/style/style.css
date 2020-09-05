@@ -1,0 +1,23 @@
+.main_background_image {
+    background-color:rgb(235, 213, 20);
+    background-size:100%;
+    z-index:0;
+    background-repeat: no-repeat;
+}
+
+
+html {
+    font-family: system-ui, sans-serif;
+    font-size: 1.25rem;
+  }
+  
+  body {
+    margin: 0;
+    padding: 0 1.5rem;
+  }
+  
+  svg {
+    display: inline-block;
+    vertical-align: middle;
+  }
+  
